@@ -37,4 +37,3 @@ python calculadora.py
 
 ---
 
-<sub>Hapistello Gnosko · Anápolis, Brasil</sub>
